@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Sha4ek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Привет 👋
+Спасибо что открыл мой профиль! Я Саша, мне 14. В свободное время увлекаюсь программированием
 
-<!---
-Sha4ek/Sha4ek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-------
+
+### Изучаемые языки:
