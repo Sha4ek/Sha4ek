@@ -1,22 +1,16 @@
 ## Обо мне
-> **Доброго времени! Я Саша, недопрограммист с Дальнего Востока. Мне почти 15 лет. В свободное время увлекаюсь программированием и пишу простеньких ботов для Discord'а**
-
-## Увлечения и школа
-> **Кроме программирования и учёбы, я также занимаюсь танцами, в прошлом году собирался бросить их, но что-то решил отложить. С какого-то момента полюбил такой предмет, как физику, а также стараюсь снова подняться до планки отличника**
+> **Доброго времени! Я Саша, недопрограммист с Дальнего Востока. Мне 15 лет. В свободное время увлекаюсь программированием и пишу ботов для дискорда**
 
 ## Изучаемые языки
-> **`Python`**  
-> **`HTML`**  
-> **`CSS`**
+> **`Python`** **`HTML`** **`CSS`** **`Pascal`**
 
 ## Проекты
-> **[`CoffeePaginator`](https://github.com/Sha4ek/CoffeePaginator) - модуль для создания страниц на disnake**  
-> **[`CoffeeBot`](https://boticord.top/bot/coffeebot) - discord-бот с маленьким функционалом**  
-> **[`Sunrise`](https://discord.gg/DZQpXUht7q) - discord-сервер для общения**
+> **[`CoffeeBot`](https://boticord.top/bot/coffeebot) - русскоязычный бот для модерации и развлечений**  
+> **[`Sunrise`](https://discord.gg/DZQpXUht7q) - русскоязычный сервер для общения**
 
-## Социальные сети
+## Соц.сети
 > **[`Telegram`](https://t.me/sha4ek)**  
-> **[`Discord: Sha4ek#3306`](https://discord.com/users/546502974499717122)**
+> **[`Discord: Sha4ek#5949`](https://discord.com/users/546502974499717122)**
 
 ## Различная статистика
 > [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Sha4ek&theme=material-palenight&locale=ru&hide=issues,contribs&show_icons=true&include_all_commits=true&custom_title=Статистика+GitHub:&count_private=true)](https://github.com/Sha4ek)  
